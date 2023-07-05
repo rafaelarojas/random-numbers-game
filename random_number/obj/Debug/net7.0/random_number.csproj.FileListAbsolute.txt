@@ -1,0 +1,15 @@
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.csproj.AssemblyReference.cache
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.AssemblyInfoInputs.cache
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.AssemblyInfo.cs
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\bin\Debug\net7.0\random_number.exe
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\bin\Debug\net7.0\random_number.deps.json
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\bin\Debug\net7.0\random_number.runtimeconfig.json
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\bin\Debug\net7.0\random_number.dll
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\bin\Debug\net7.0\random_number.pdb
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.dll
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\refint\random_number.dll
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.pdb
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\random_number.genruntimeconfig.cache
+C:\Users\Inteli\source\repos\PrimeiroProjeto\random_number\random_number\obj\Debug\net7.0\ref\random_number.dll
